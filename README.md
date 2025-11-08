@@ -27,3 +27,7 @@ Pandas: Usado para la manipulación y limpieza inicial de datos.
 Plotly: Librería utilizada para generar gráficos interactivos y visualmente atractivos.
 
 GitHub/Render: Plataformas utilizadas para el control de versiones y el despliegue continuo.
+Despliegue en Render
+
+La aplicación está desplegada y accesible públicamente en la siguiente URL:
+https://proyecto-sprint-7-1-gk26.onrender.com/
